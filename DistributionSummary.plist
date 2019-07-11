@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MichaelSSRiOS.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>EFCB76DAE6FC33FC9AC9A56AD3398E4E0FE6B7AA</string>
+				<key>dateExpires</key>
+				<string>2020/7/9</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EFCB76DAE6FC33FC9AC9A56AD3398E4E0FE6B7AA</string>
+						<key>dateExpires</key>
+						<string>2020/7/9</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F99FH9TB6L</string>
+						<key>name</key>
+						<string>mobilesoft enuo</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EFCB76DAE6FC33FC9AC9A56AD3398E4E0FE6B7AA</string>
+						<key>dateExpires</key>
+						<string>2020/7/9</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>CryptoSwift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F99FH9TB6L</string>
+						<key>name</key>
+						<string>mobilesoft enuo</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EFCB76DAE6FC33FC9AC9A56AD3398E4E0FE6B7AA</string>
+						<key>dateExpires</key>
+						<string>2020/7/9</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Toast_Swift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F99FH9TB6L</string>
+						<key>name</key>
+						<string>mobilesoft enuo</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>F99FH9TB6L.MichaelSun.MichaelSSRiOS</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>F99FH9TB6L</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>F99FH9TB6L.MichaelSun.MichaelSSRiOS</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>MichaelSSRiOS.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>100b1289-4a56-4de7-a870-8abb8911f7f7</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>F99FH9TB6L</string>
+				<key>name</key>
+				<string>mobilesoft enuo</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
