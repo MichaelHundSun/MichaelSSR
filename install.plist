@@ -12,7 +12,7 @@
                   <key>kind</key>
                   <string>software-package</string>
                   <key>url</key>
-                  <string>https://gitee.com/MichaelSun5/MyMac/raw/master/访问谷歌/install/MichaelSSRiOS.ipa</string>
+                  <string>https://github.com/MichaelHundSun/MichaelSSR/blob/master/MichaelSSRiOS.ipa</string>
               </dict> 
                              
               <dict>
@@ -21,7 +21,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://gitee.com/MichaelSun5/MyMac/blob/master/访问谷歌/install/appicon.png</string>
+                    <string>https://github.com/MichaelHundSun/MichaelSSR/blob/master/appicon.png</string>
                 </dict>
 
                 <dict>
@@ -30,7 +30,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://gitee.com/MichaelSun5/MyMac/blob/master/访问谷歌/install/appicon512.png</string>
+                    <string>https://github.com/MichaelHundSun/MichaelSSR/blob/master/appicon512.png</string>
                 </dict>
            </array>
             
