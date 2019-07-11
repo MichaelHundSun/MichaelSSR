@@ -12,7 +12,7 @@
                   <key>kind</key>
                   <string>software-package</string>
                   <key>url</key>
-                  <string>https://***/XXX.ipa</string>
+                  <string>https://gitee.com/MichaelSun5/MyMac/raw/master/访问谷歌/install/MichaelSSRiOS.ipa</string>
               </dict> 
                              
               <dict>
@@ -21,7 +21,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://***/Icon57.png</string>
+                    <string>https://gitee.com/MichaelSun5/MyMac/blob/master/访问谷歌/install/appicon.png</string>
                 </dict>
 
                 <dict>
@@ -30,7 +30,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://***/Icon57.png</string>
+                    <string>https://gitee.com/MichaelSun5/MyMac/blob/master/访问谷歌/install/appicon512.png</string>
                 </dict>
            </array>
             
@@ -38,7 +38,7 @@
             
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.baidu.***</string>
+                <string>cMichaelSun.MichaelSSRiOS</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
